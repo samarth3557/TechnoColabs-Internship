@@ -1,4 +1,4 @@
-# Data Visualization
+# Data Visualization.
 
 ### 1. Hello Seaborn
 ### 2. Linea charts
