@@ -10,4 +10,4 @@
 
 ### 5. Data Types and Missing Values
 
-### 6. Renaming and Combining
+### 6. Renaming and Combining.
